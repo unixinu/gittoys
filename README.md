@@ -6,3 +6,5 @@ Git学习库
 
 develope修改README之后，合并入master。
 之后，我又在master中对README进行了修改，这个时刻，master与develope不一致了，比develope多了更多的修改。
+
+从master创建nxj分支后，在服务器上对README添加内容。
