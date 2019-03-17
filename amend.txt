@@ -1,1 +1,0 @@
-测试撤销命令amend，先提交后，再touch amend.txt，之后add并且commit，看日志有什么变化。
